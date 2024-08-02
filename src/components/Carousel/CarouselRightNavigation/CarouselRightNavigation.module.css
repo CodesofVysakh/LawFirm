@@ -1,0 +1,21 @@
+.rightNavigation {
+    position: absolute;
+    right: 30px;
+    top: 10%;
+    transform: translateY(-50%);
+    z-index: 10;
+    
+    .btn{
+        cursor: pointer;
+        width: 90px ;
+        height: 90px;
+        border: none;
+        background-color: var(--color-primary);
+        border-radius: 50%;
+    }
+    .btn:disabled{
+        background-color: #a88733;
+        cursor: not-allowed;
+    }
+}
+

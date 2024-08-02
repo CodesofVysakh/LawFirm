@@ -1,0 +1,10 @@
+.navbarWrapper{
+    background-color: var(--color-black) !important;
+    box-shadow: none !important;
+}
+
+.icon{
+    :hover{
+        background-color: red;
+    }
+}

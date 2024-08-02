@@ -1,0 +1,8 @@
+.cardWrapper{
+    border: 1px solid var(--color-subtitle);
+    border-radius: 14px;
+}
+
+.button{
+    text-transform: none;
+}

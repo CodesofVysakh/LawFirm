@@ -1,0 +1,5 @@
+.navbarWrapper{
+    padding-top: 30px;
+    background-color: var(--color-black) !important;
+    box-shadow: none !important;
+}

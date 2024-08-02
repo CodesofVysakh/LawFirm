@@ -1,0 +1,24 @@
+:root {
+    --color-primary: #e3b748;
+    --color-white: #ffffff;
+    --color-black: #111111;
+    --color-subtitle: #585858;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #1d1d1d;
+    color: var(--color-white);
+}
+
+.swiper-slide {
+    width: auto !important;
+}
+
+.css-1sopiki-MuiPaper-root-MuiAccordion-root {
+    box-shadow: none !important;
+}
